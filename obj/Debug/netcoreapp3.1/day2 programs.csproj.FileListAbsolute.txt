@@ -1,0 +1,13 @@
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.csprojAssemblyReference.cache
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.AssemblyInfoInputs.cache
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.AssemblyInfo.cs
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.csproj.CoreCompileInputs.cache
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.exe
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.deps.json
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.runtimeconfig.json
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.runtimeconfig.dev.json
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.dll
+E:\day 2 repository\day2 programs\day2 programs\bin\Debug\netcoreapp3.1\day2 programs.pdb
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.dll
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.pdb
+E:\day 2 repository\day2 programs\day2 programs\obj\Debug\netcoreapp3.1\day2 programs.genruntimeconfig.cache
